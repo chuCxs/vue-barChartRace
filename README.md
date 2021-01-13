@@ -1,5 +1,6 @@
 # 描述
 基于D3.js的历史统计数据比赛条形图
+chuCxs/vue-barChartRace
 # 示例效果
 ![avatar][base64str]
 # 说明
