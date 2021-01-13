@@ -1,16 +1,19 @@
-# 描述
+## 描述
 基于D3.js的历史统计数据比赛条形图
-# 示例效果
+## 示例
+
+###### 效果图
 ![image](https://github.com/chuCxs/vue-barChartRace/blob/main/src/assets/demo.gif)
-# 说明
+###### Demo地址：https://chucxs.github.io/vue-barChartRace
+## 说明
 组件基于D3.js进行开发的vue组件
-# 安装
+
+## 安装
 
 ```
 npm i vue-bar-chart-race --save
 ```
-# 依赖安装
-
+## 依赖安装
 
 ```
 npm i d3 --save
@@ -44,7 +47,7 @@ export default {
 ```
 组件上层需要定义一个块元素作为组件的父容器，父容器的width和height属性不能为auto
 
-# 配置属性
+## 配置属性
 
 
 ```
@@ -84,7 +87,7 @@ option: {
     },
 },
 ```
-# data格式
+## data格式
 
 
 ```
@@ -155,3 +158,6 @@ data:{
     ]
 }
 ```
+## keywords
+
+###### vue、d3、barChartRace
