@@ -1,7 +1,7 @@
 {
   "name": "vue-bar-chart-race",
   "description": "基于D3.js的历史统计数据比赛条形图",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "cxs",
   "license": "MIT",
   "private": false,
